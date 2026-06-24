@@ -86,3 +86,10 @@ BERT_BEST_MODEL_PATH = MODELS_DIR / "best_bert.pt"
 
 TRAINING_HISTORY_DIR = LOGS_DIR / "training"
 RESULTS_DIR = PROJECT_ROOT / "results"
+
+# Hyperparameter optimization (Optuna)
+HPO_N_TRIALS = 20
+HPO_MAX_EPOCHS = 3
+HPO_RESULTS_CSV = RESULTS_DIR / "hyperparameter_search.csv"
+HPO_VISUALIZATIONS_DIR = RESULTS_DIR / "hpo"
+HPO_STUDY_NAME = "lstm_hyperparameter_search"

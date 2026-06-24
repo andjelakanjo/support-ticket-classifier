@@ -1,0 +1,2 @@
+number,value,datetime_start,datetime_complete,duration,system_attrs_fixed_params,state
+0,0.10368838710949184,2026-06-24 20:24:29.489442,2026-06-24 20:24:29.489545,0 days 00:00:00.000103,"{'learning_rate': 0.0001329291894316216, 'batch_size': 16, 'dropout': 0.1624074561769746, 'num_lstm_layers': 1}",COMPLETE
