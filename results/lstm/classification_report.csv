@@ -1,0 +1,13 @@
+class,precision,recall,f1-score,support
+Technical Support,0.28844339622641507,1.0,0.44773933736042465,1223.0
+Customer Service,0.0,0.0,0.0,641.0
+Billing and Payments,0.0,0.0,0.0,435.0
+Product Support,0.0,0.0,0.0,796.0
+IT Support,0.0,0.0,0.0,500.0
+Returns and Exchanges,0.0,0.0,0.0,210.0
+Sales and Pre-Sales,0.0,0.0,0.0,126.0
+Human Resources,0.0,0.0,0.0,83.0
+Service Outages and Maintenance,0.0,0.0,0.0,166.0
+General Inquiry,0.0,0.0,0.0,60.0
+macro avg,0.028844339622641508,0.1,0.044773933736042465,4240.0
+weighted avg,0.08319959282662868,0.28844339622641507,0.1291474550924055,4240.0
