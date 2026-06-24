@@ -12,3 +12,10 @@ models/*.h5
 data/raw/*.csv
 *.log
 .DS_Store
+
+# Cursor IDE
+.cursor/
+.cursorignore
+*.plan.md
+logs/training/*_smoke_*.json
+logs/training/hpo_trial_*.json
